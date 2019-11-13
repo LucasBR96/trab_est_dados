@@ -1,0 +1,1 @@
+1 - poucas chaves( 26 no maximo ), significa que pode ser tudo na memoria ram, e nao precisa de algoritimos sofisticados
